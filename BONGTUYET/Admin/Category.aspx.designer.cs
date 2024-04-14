@@ -15,6 +15,15 @@ namespace BONGTUYET.Admin
     {
 
         /// <summary>
+        /// lblMsg control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblMsg;
+
+        /// <summary>
         /// txtCategoryName control.
         /// </summary>
         /// <remarks>
@@ -85,5 +94,14 @@ namespace BONGTUYET.Admin
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Image imagePreview;
+
+        /// <summary>
+        /// rCategory control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Repeater rCategory;
     }
 }
